@@ -1,6 +1,8 @@
 import React from 'react'
 import "./style.scss";
 import ContentWrapper from "../../componentss/contentWrapper/ContentWrapper";
+
+
 const NoPageFound = () => {
   
     return (
